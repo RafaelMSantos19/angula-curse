@@ -21,3 +21,7 @@ ng new <nome-do-projeto> --commit=flase
 Para inicia um projeto angular:
 
 ng serve
+
+para cria um novo componente
+
+ng generate component <nome-do-componente>
