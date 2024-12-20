@@ -25,3 +25,8 @@ ng serve
 para cria um novo componente
 
 ng generate component <nome-do-componente>
+
+ou
+
+ng g c <nome-do-componente>
+

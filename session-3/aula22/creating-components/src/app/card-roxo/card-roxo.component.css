@@ -7,7 +7,7 @@
    
 .card {
     max-width: 350px;
-    background-color: #fd7557;
+    background-color: #a315ce;
     border-radius: 25px;
     padding: 30px 60px;
     font-family: 'Poppins', sans-serif; /* Correção do nome da fonte */
@@ -15,7 +15,7 @@
 }
 
 .card__item {
-    padding: 10px 0;
+    padding: 10px 0; /* Adiciona espaçamento vertical */
 }
 
 .card__price{
@@ -34,7 +34,7 @@
     margin-top: 10px;
     border-radius: 25px;
     background-color: white;
-    color: #fd7557; /* Cor do texto do botão */
+    color: #dc57fd; /* Cor do texto do botão */
     padding: 10px 20px; /* Adiciona padding para um botão mais espaçoso */
     border: none; /* Remove borda padrão */
     cursor: pointer; /* Muda o cursor para indicar que é clicável */
